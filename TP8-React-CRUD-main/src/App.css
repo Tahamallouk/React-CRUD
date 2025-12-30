@@ -1,0 +1,47 @@
+.app-bg {
+  min-height: 100vh;
+  background: radial-gradient(1200px 600px at 20% 0%, #eef6ff 0%, #ffffff 45%);
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+}
+
+.app-title {
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  font-size: 2.2rem;
+}
+
+.app-subtitle {
+  color: #6c757d;
+  font-size: 0.95rem;
+}
+
+.app-card {
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 16px;
+}
+
+.th-sort {
+  user-select: none;
+  white-space: nowrap;
+}
+
+.th-sort:hover {
+  text-decoration: underline;
+}
+
+.app-search {
+  max-width: 320px;
+}
+
+@media (max-width: 992px) {
+  .app-search {
+    max-width: 100%;
+    width: 100%;
+  }
+}

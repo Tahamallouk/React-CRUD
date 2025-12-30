@@ -1,0 +1,6 @@
+{
+  "/api/rest/customer/all": "/customers",
+  "/api/rest/customer/create": "/customers",
+  "/api/rest/customer/update/:identityRef": "/customers/:identityRef",
+  "/api/rest/customer/delete/:identityRef": "/customers/:identityRef"
+}

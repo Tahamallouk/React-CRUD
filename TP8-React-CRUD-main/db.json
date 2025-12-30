@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "firstname": "Anas",
+      "lastname": "KRIR",
+      "identityRef": "1",
+      "username": "ESPARTA"
+    },
+    {
+      "id": 2,
+      "firstname": "Adam",
+      "lastname": "EL YOURI",
+      "identityRef": "2",
+      "username": "WAKFU"
+    },
+    {
+      "id": 3,
+      "firstname": "Ismail",
+      "lastname": "MACHHOUR",
+      "identityRef": "3",
+      "username": "GOKU"
+    },
+    {
+      "id": 4,
+      "firstname": "Taha",
+      "lastname": "MALLOUK",
+      "identityRef": "4",
+      "username": "SAKURAGU"
+    }
+  ]
+}
