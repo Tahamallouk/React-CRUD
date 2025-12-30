@@ -220,6 +220,6 @@ Technologies : React · Axios · Bootstrap · REST API · CRUD <br/>
 ✅ Projet sous licence MIT <br/>
 Libre d’utilisation, modification et distribution à des fins pédagogiques. <br/>
 
-© 2025 — Anas KRIR & Adam EL YOURI <br/>
+© 2025 — Mallouk Mohammed Taha <br/>
 
 ---
